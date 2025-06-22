@@ -1,5 +1,5 @@
 # Rescue Animal Check in
-Animal rescue check-in application
+A console-based Java application that allows users to intake and manage rescue animals for a fictional training program. This is the final source code for the <b>IT 145 - Introduction to Scription</b> course.
 
 <h1>📝 Summary</h1>
 <p>
