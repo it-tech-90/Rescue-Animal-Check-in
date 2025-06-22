@@ -1,4 +1,4 @@
-# :paws:Rescue Animal Check In
+# :paw:Rescue Animal Check In
 A console-based Java application that allows users to intake and manage rescue animals for a fictional training program. This is the final source code for the <b>IT 145 - Introduction to Scripting</b> course.
 
 <h1>📝 Summary</h1>
